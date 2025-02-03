@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore macOS system files
+.DS_Store
